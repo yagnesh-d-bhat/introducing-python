@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 .vscode/launch.json
+=======
+__pycache__/
+*.pyc
+>>>>>>> upstream/master
